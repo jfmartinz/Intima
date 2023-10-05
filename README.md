@@ -83,7 +83,7 @@ Click Here [CODE_OF_CONDUCT](https://github.com/arncv/Intima/blob/main/CODE_OF_C
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[(Back to Top)](#intima-bridging-the-gap-in-sexual-education)
 
 
 
